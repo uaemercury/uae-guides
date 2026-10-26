@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uaemercury.github.io/uae-guides/sitemap.xml
